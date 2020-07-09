@@ -49,3 +49,5 @@ MANIFEST
 .venv*/
 
 credentials
+
+*_output.json
